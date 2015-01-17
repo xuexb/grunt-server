@@ -1,0 +1,10 @@
+{
+  "name": "grunt-server",
+  "description": "基于grunt的server",
+  "version": "1.0.0",
+  "author": "xieliang",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-connect": "*"
+  }
+}
